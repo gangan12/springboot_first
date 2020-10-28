@@ -1,0 +1,19 @@
+server:
+  port: 8883
+
+student:
+  name: zs
+  age: 23
+  sex: true
+  birthday: 2000/02/12
+  location: {province: 陕西,city: 西安,zone: 莲花区}
+  hobbies:
+    - 足球
+    - 篮球
+  skills:
+    - 编程
+    - 金融
+  pet:
+    nickname: wc
+    strain: hsq
+  email: 804460527@qq.com
