@@ -28,6 +28,7 @@ public class Student {
 
     private Pet pet;
 
+    //邮件
     @Email
     private String email;
 
